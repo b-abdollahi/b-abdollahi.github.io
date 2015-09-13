@@ -23,12 +23,14 @@
     <favorites_list name="personal_website" />
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/personal_website" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/personal_website" value="master" />
       </map>
     </option>
+    <option name="FORCE_PUSH_ALLOWED" value="true" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -456,7 +458,7 @@
       <created>1442181704838</created>
       <option name="number" value="Default" />
       <updated>1442181704838</updated>
-      <workItem from="1442181709099" duration="740000" />
+      <workItem from="1442181709099" duration="771000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1442182009432</created>
@@ -482,11 +484,17 @@
       <option name="project" value="LOCAL" />
       <updated>1442182265623</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1442182465326</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1442182465326</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="740000" />
+    <option name="totallyTimeSpent" value="771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="185" width="1382" height="744" extended-state="6" />
