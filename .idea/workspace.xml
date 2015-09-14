@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6898a8fc-db85-4f8f-b887-05c4c586747f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_website/index.html" afterPath="$PROJECT_DIR$/personal_website/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_website/CNAME" afterPath="$PROJECT_DIR$/personal_website/CNAME" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_website/.idea/workspace.xml" afterPath="$PROJECT_DIR$/personal_website/.idea/workspace.xml" />
     </list>
     <ignored path="personal_website.iws" />
@@ -26,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personal_website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48281017">
+            <state vertical-scroll-proportion="-12.423077">
               <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
               <folding />
             </state>
@@ -56,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personal_website/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -87,8 +87,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/personal_website/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/personal_website/CNAME" />
         <option value="$PROJECT_DIR$/personal_website/index.html" />
+        <option value="$PROJECT_DIR$/personal_website/CNAME" />
       </list>
     </option>
   </component>
@@ -583,7 +583,7 @@
       <created>1442181704838</created>
       <option name="number" value="Default" />
       <updated>1442181704838</updated>
-      <workItem from="1442181709099" duration="4290000" />
+      <workItem from="1442181709099" duration="4541000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1442182009432</created>
@@ -663,11 +663,17 @@
       <option name="project" value="LOCAL" />
       <updated>1442210345043</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="init">
+      <created>1442211545485</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1442211545485</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4290000" />
+    <option name="totallyTimeSpent" value="4541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -711,14 +717,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/personal_website/assets/sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="78.26415">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personal_website/assets/css/images/overlay.svg">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -735,11 +733,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal_website/assets/css/images/bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personal_website/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.74074">
@@ -748,18 +741,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal_website/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/personal_website/assets/css/images/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personal_website/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48281017">
+        <state vertical-scroll-proportion="-12.423077">
           <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_website/assets/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="78.26415">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_website/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
