@@ -60,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/personal_website/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -583,7 +583,7 @@
       <created>1442181704838</created>
       <option name="number" value="Default" />
       <updated>1442181704838</updated>
-      <workItem from="1442181709099" duration="3592000" />
+      <workItem from="1442181709099" duration="3635000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1442182009432</created>
@@ -651,11 +651,17 @@
       <option name="project" value="LOCAL" />
       <updated>1442209709113</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init">
+      <created>1442210303074</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1442210303074</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3592000" />
+    <option name="totallyTimeSpent" value="3635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -747,7 +753,7 @@
     <entry file="file://$PROJECT_DIR$/personal_website/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
