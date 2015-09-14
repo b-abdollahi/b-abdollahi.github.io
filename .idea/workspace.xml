@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6898a8fc-db85-4f8f-b887-05c4c586747f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_website/CNAME" afterPath="$PROJECT_DIR$/personal_website/CNAME" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_website/index.html" afterPath="$PROJECT_DIR$/personal_website/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal_website/.idea/workspace.xml" afterPath="$PROJECT_DIR$/personal_website/.idea/workspace.xml" />
     </list>
     <ignored path="personal_website.iws" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personal_website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.923077">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.48281017">
+              <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personal_website/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -86,9 +86,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/personal_website/index.html" />
         <option value="$PROJECT_DIR$/personal_website/assets/css/main.css" />
         <option value="$PROJECT_DIR$/personal_website/CNAME" />
+        <option value="$PROJECT_DIR$/personal_website/index.html" />
       </list>
     </option>
   </component>
@@ -583,7 +583,7 @@
       <created>1442181704838</created>
       <option name="number" value="Default" />
       <updated>1442181704838</updated>
-      <workItem from="1442181709099" duration="3635000" />
+      <workItem from="1442181709099" duration="4290000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1442182009432</created>
@@ -657,11 +657,17 @@
       <option name="project" value="LOCAL" />
       <updated>1442210303074</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init">
+      <created>1442210345043</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1442210345043</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3635000" />
+    <option name="totallyTimeSpent" value="4290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -742,18 +748,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal_website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.923077">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personal_website/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48281017">
+          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
           <folding />
         </state>
       </provider>
