@@ -22,6 +22,11 @@
 		display: block;
 	}
 
+    .avatar{
+        border-radius: 50%;
+        max-width: 20%;
+    }
+
 	body {
 		line-height: 1;
 	}
@@ -691,6 +696,11 @@
 
 	@media screen and (max-width: 1680px) {
 
+    .avatar{
+        border-radius: 50%;
+        max-width: 20%;
+    }
+
 		/* Basic */
 
 			body, input, select, textarea {
@@ -773,6 +783,11 @@
 
 	@media screen and (max-width: 1280px) {
 
+	    .avatar{
+            border-radius: 50%;
+            max-width: 25%;
+        }
+
 		/* Basic */
 
 			body, input, select, textarea {
@@ -854,6 +869,11 @@
 /* Mobile */
 
 	@media screen and (max-width: 736px) {
+
+	    .avatar{
+            border-radius: 50%;
+            max-width: 30%;
+        }
 
 		/* Basic */
 
@@ -962,6 +982,11 @@
 /* Mobile (Portrait) */
 
 	@media screen and (max-width: 480px) {
+
+	    .avatar{
+            border-radius: 50%;
+            max-width: 35%;
+        }
 
 		/* BG */
 
